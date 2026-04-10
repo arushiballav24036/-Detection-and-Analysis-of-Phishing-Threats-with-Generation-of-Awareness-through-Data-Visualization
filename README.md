@@ -25,16 +25,26 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
 ➤	Attacks are mainly reported by Victim indicating delayed detection
 
 ➤	Countries like Australia, Brazil, France, Germany, India, USA, Canada show higher attack counts and losses
+
 # Key Insights for Objective 2:
 ➤	Total of 19k brands were targeted.
+
 ➤	The number of unique phishing websites remains relatively high from January to May.
+
 ➤	In March 1878 brands were affected and from July onwards, the number of targeted brands drops sharply and stabilizes between 1300–1500.
+
 ➤	Qtr 1 has highest phishing volume with slight drop in Qtr 2 followed by Qtr 3 and 4
+
 ➤	Q4 has the highest maximum (101K) unique email subjects and Q1 has the lowest minimum (14K).
+
 ➤	Total of 19k brands were targeted.
+
 ➤	The number of unique phishing websites remains relatively high from January to May.
+
 ➤	In March 1878 brands were affected and from July onwards, the number of targeted brands drops sharply and stabilizes between 1300–1500.
+
 ➤	Qtr 1 has highest phishing volume with slight drop in Qtr 2 followed by Qtr 3 and 4
+
 ➤	Q4 has the highest maximum (101K) unique email subjects and Q1 has the lowest minimum (14K).
 
 # Key Insights for Objective 3:
