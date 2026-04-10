@@ -1,4 +1,9 @@
 # -Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization
+
+## 📊 Power BI Report
+Due to file size limitations on GitHub, the `.pbix` file is hosted on Google Drive.
+[Download Power BI File](https://drive.google.com/file/d/1kZ6kbNwIYxLUsfsPaLBi7U49ROwchGOK/view?usp=sharing)
+
 This study aims to conduct a comprehensive analysis of phishing attack patterns by examining multiple attack vectors, identifying the most frequently targeted organizational roles, industries, and brands, and evaluating user awareness and behavioral responses using data visualization techniques. 
 # Objective
 1. To analyze and identify the most vulnerable organizational roles targeted by Phishing for the year 2020-2024 
