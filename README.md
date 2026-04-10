@@ -81,6 +81,8 @@ Here is the snapshot of the objective 3
 
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%205.jpg)
 
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%207.jpg)
+
 # Key Insights for Objective 4:
 ➤	A total of 86 unique phishing websites were identified.
 
@@ -91,6 +93,8 @@ Here is the snapshot of the objective 3
 ➤	Each brand in the dataset is typically targeted once, indicating brand impersonation rather than repeated targeting.
 
 Here is the snapshot of the objective 4
+
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5df250ff0be296af631f490b3ef5d2641162fbb9/analysis%208.jpg)
 
 # Key Insights for Objective 5:
 ➤	Reported Avg session is 309 sec and Avg Session Clicked is 304 sec.
@@ -108,6 +112,8 @@ Here is the snapshot of the objective 4
 ➤	Browsers such as Safari, Edge and Firefox have higher clicks 
 
 Here is the snapshot of the objective 5
+
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5df250ff0be296af631f490b3ef5d2641162fbb9/analysis%209.jpg)
 
 # Conclusion
 From this study, it can be concluded that phishing attacks are continuously increasing and evolving, using multiple attack methods such as emails, malicious URLs, Business Email Compromise (BEC), social media, SMS, voice calls, and attachments. Overall, the project demonstrates that data-driven analysis and visualization can significantly improve understanding of phishing threats, support early detection, and guide organizations in implementing effective security measures. The study also shows that phishing impacts not only organizations and employees but also everyday users, making awareness and proactive prevention essential.
