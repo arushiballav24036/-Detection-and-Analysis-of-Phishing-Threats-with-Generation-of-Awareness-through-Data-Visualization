@@ -26,6 +26,9 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
 
 ➤	Countries like Australia, Brazil, France, Germany, India, USA, Canada show higher attack counts and losses
 
+Here is the snapshot for the objective 1
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/4e0e80428b71b1375014a7f1d6cb41c496604b8f/Analysis%201.jpg)
+
 # Key Insights for Objective 2:
 ➤	Total of 19k brands were targeted.
 
