@@ -14,12 +14,12 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
  2.	The APWG (Anti Phishing Working Group) Phishing Activity Trends Report analyses phishing attacks reported to the APWG by its member companies
 ## Data Driven Analysis and Data Visualization:   
 # Key Insights for Objective 1:
-•	High financial loss USD 25M
-•	Financial Officer, CEO and Corporate Employees are most targeted role
-•	Loses are increasing year by year
-•	49% of phishing attempts are successful
-•	Attacks are mainly reported by Victim indicating delayed detection
-•	Countries like Australia, Brazil, France, Germany, India, USA, Canada show higher attack counts and losses
+➤	High financial loss USD 25M
+➤	Financial Officer, CEO and Corporate Employees are most targeted role
+➤	Loses are increasing year by year
+➤	49% of phishing attempts are successful
+➤	Attacks are mainly reported by Victim indicating delayed detection
+➤	Countries like Australia, Brazil, France, Germany, India, USA, Canada show higher attack counts and losses
 # Key Insights for Objective 2:
 •	Total of 19k brands were targeted.
 •	The number of unique phishing websites remains relatively high from January to May.
