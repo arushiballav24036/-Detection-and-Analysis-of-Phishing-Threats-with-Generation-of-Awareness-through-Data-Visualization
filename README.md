@@ -49,6 +49,7 @@ Here is the snapshot for the objective 1
 ➤	Qtr 1 has highest phishing volume with slight drop in Qtr 2 followed by Qtr 3 and 4
 
 ➤	Q4 has the highest maximum (101K) unique email subjects and Q1 has the lowest minimum (14K).
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/8ddee9b48bd26321a8b58547a5a4a60c7129daa3/analysis%202.jpg)
 
 # Key Insights for Objective 3:
 ➤	Pie chart shows 58.43% phishing emails vs 41.57% non-phishing
