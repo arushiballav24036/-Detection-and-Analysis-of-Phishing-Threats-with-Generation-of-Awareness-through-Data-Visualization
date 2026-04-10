@@ -26,7 +26,7 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
 
 ➤	Countries like Australia, Brazil, France, Germany, India, USA, Canada show higher attack counts and losses
 
-Here is the snapshot for the objective 1
+Here is the snapshot of the objective 1
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/4e0e80428b71b1375014a7f1d6cb41c496604b8f/Analysis%201.jpg)
 
 # Key Insights for Objective 2:
@@ -49,7 +49,13 @@ Here is the snapshot for the objective 1
 ➤	Qtr 1 has highest phishing volume with slight drop in Qtr 2 followed by Qtr 3 and 4
 
 ➤	Q4 has the highest maximum (101K) unique email subjects and Q1 has the lowest minimum (14K).
+
+Here is the snapshot of the objective 2
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/8ddee9b48bd26321a8b58547a5a4a60c7129daa3/analysis%202.jpg)
+
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%203.jpg)
+
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%204.jpg)
 
 # Key Insights for Objective 3:
 ➤	Pie chart shows 58.43% phishing emails vs 41.57% non-phishing
@@ -70,6 +76,11 @@ Here is the snapshot for the objective 1
 
 ➤	Long or abnormal URLs lengths are common in phishing
 
+Here is the snapshot of the objective 3
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/Analysis%206.jpg)
+
+![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%205.jpg)
+
 # Key Insights for Objective 4:
 ➤	A total of 86 unique phishing websites were identified.
 
@@ -78,6 +89,8 @@ Here is the snapshot for the objective 1
 ➤	Top 3 most targeted brands are finance, other services, computers and electronics
 
 ➤	Each brand in the dataset is typically targeted once, indicating brand impersonation rather than repeated targeting.
+
+Here is the snapshot of the objective 4
 
 # Key Insights for Objective 5:
 ➤	Reported Avg session is 309 sec and Avg Session Clicked is 304 sec.
@@ -93,6 +106,8 @@ Here is the snapshot for the objective 1
 ➤	Some devices (mobile/web) may show different click behavior
 
 ➤	Browsers such as Safari, Edge and Firefox have higher clicks 
+
+Here is the snapshot of the objective 5
 
 # Conclusion
 From this study, it can be concluded that phishing attacks are continuously increasing and evolving, using multiple attack methods such as emails, malicious URLs, Business Email Compromise (BEC), social media, SMS, voice calls, and attachments. Overall, the project demonstrates that data-driven analysis and visualization can significantly improve understanding of phishing threats, support early detection, and guide organizations in implementing effective security measures. The study also shows that phishing impacts not only organizations and employees but also everyday users, making awareness and proactive prevention essential.
