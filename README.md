@@ -17,8 +17,8 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
 # Data Source:
  1.	Phishing scam report for the year 2020-2024 from kaggle
  2.	The APWG (Anti Phishing Working Group) Phishing Activity Trends Report analyses phishing attacks reported to the APWG by its member companies
-## Data Driven Analysis and Data Visualization:   
-# Key Insights for Objective 1:
+# Data Driven Analysis and Data Visualization:   
+## Key Insights for Objective 1:
 ➤	High financial loss USD 25M
 
 ➤	Financial Officer, CEO and Corporate Employees are most targeted role
@@ -34,7 +34,7 @@ This study aims to conduct a comprehensive analysis of phishing attack patterns 
 Here is the snapshot of the objective 1
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/4e0e80428b71b1375014a7f1d6cb41c496604b8f/Analysis%201.jpg)
 
-# Key Insights for Objective 2:
+## Key Insights for Objective 2:
 ➤	Total of 19k brands were targeted.
 
 ➤	The number of unique phishing websites remains relatively high from January to May.
@@ -62,7 +62,7 @@ Here is the snapshot of the objective 2
 
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%204.jpg)
 
-# Key Insights for Objective 3:
+## Key Insights for Objective 3:
 ➤	Pie chart shows 58.43% phishing emails vs 41.57% non-phishing
 
 ➤	The top 10 senders
@@ -88,7 +88,7 @@ Here is the snapshot of the objective 3
 
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5d7ba7fb9a915c6020127eafc5259c983413cae8/analysis%207.jpg)
 
-# Key Insights for Objective 4:
+## Key Insights for Objective 4:
 ➤	A total of 86 unique phishing websites were identified.
 
 ➤	Finance is the most targeted category with 38 brands (44.19%).
@@ -101,7 +101,7 @@ Here is the snapshot of the objective 4
 
 ![dashboard](https://github.com/arushiballav24036/-Detection-and-Analysis-of-Phishing-Threats-with-Generation-of-Awareness-through-Data-Visualization/blob/5df250ff0be296af631f490b3ef5d2641162fbb9/analysis%208.jpg)
 
-# Key Insights for Objective 5:
+## Key Insights for Objective 5:
 ➤	Reported Avg session is 309 sec and Avg Session Clicked is 304 sec.
 
 ➤	Hover time for “reported” and “clicked” emails is almost the same.
